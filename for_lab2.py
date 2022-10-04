@@ -3,3 +3,6 @@ def f(a):
 
 for i in range(a):
     print("Hello world!")
+
+def cub(a):
+    return a ** 3
